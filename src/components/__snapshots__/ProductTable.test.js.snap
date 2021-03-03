@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div
+  data-testid="table"
+>
+  <table
+    className="table table-striped table-hover"
+  >
+    <thead>
+      <tr>
+        <td
+          colSpan="3"
+        >
+          Products (
+          ) 
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Name
+        </td>
+        <td>
+          Price
+        </td>
+        <td>
+          Type
+        </td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          Hewlett-Packard Rideable Lawnmower
+        </td>
+        <td>
+          3000
+        </td>
+        <td />
+      </tr>
+      <tr>
+        <td>
+          Fisher Price's My First Lawnmower
+        </td>
+        <td>
+          45
+        </td>
+        <td />
+      </tr>
+      <tr>
+        <td>
+          Volkswagen LawnMaster 39000B Lawnmower
+        </td>
+        <td>
+          1020
+        </td>
+        <td />
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
